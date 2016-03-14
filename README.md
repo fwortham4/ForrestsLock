@@ -1,2 +1,2 @@
 # ForrestsLock
-a "game"/Login Screen I built for for a Java project  through CodeCademy. 
+a "game"/Login Screen I built for for a Java Script project through CodeCademy. 
